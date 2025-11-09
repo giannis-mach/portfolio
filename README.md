@@ -2,7 +2,7 @@
 
 #  Hi, I'm Giannis 
 
- Data Scientist |  Automation Enthusiast |  AI Engineer in Progress
+ Data Scientist |  Automation Enthusiast |  AI Engineer 
 
 Welcome to my **Project Portfolio** — a collection of machine learning, AI, and data analytics projects showcasing my technical and problem-solving skills.
 
@@ -33,4 +33,4 @@ Welcome to my **Project Portfolio** — a collection of machine learning, AI, an
 
 ---
 
- *Feel free to explore the folders above for full project details, results, and code.*
+ *Feel free to explore the folders for full project details, results, and code.*
