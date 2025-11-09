@@ -47,3 +47,7 @@ I built an end-to-end data pipeline that transformed raw web data into structure
 ---
 
 ## 📂 Repository Contents
+
+## Note
+
+All notebooks, code snippets, and images have been highly compressed and trimmed down for clarity and readability. The repository focuses on demonstrating methodology and insights rather than full dataset reproduction.
