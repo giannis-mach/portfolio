@@ -42,7 +42,7 @@ I built an end-to-end data pipeline that transformed raw web data into structure
 ---
 
 ## 🛠 Tech Stack
-`Python` · `scikit-learn` · `BeautifulSoup` · `Empath` · `SMOTE` · `Matplotlib`  
+`Python` · `scikit-learn` · `BeautifulSoup` · `Empath` · `SMOTE` · `Matplotlib`  `pandas` 
 
 ---
 
