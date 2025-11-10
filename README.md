@@ -1,5 +1,3 @@
-# portfolio
-
 #  Hi, I'm Giannis 
 
  Data Scientist |  Automation Enthusiast |  AI Engineer 
