@@ -14,7 +14,7 @@ Welcome to my **Project Portfolio** — a collection of machine learning, AI, an
 |----------|--------------|-------------|
 | [ Website Credibility Classification (Thesis)](./thesis_credibility) | Predicts website credibility (high vs non-high) using HTML and linguistic features | Python · scikit-learn · BeautifulSoup · Empath |
 | [ CNN Image Recognition](./cnn_image_recognition) | Convolutional Neural Network for classifying images | TensorFlow · Keras · NumPy |
-| | [LangChain + FastAPI Q&A Bot](./LangChain%20%2B%20FastAPI:%20Semantic%20Search%20%26%20Q%26A%20System) | Embedding-based text Q&A system with a REST API | LangChain · HFT · FastAPI · FAISS |
+| [LangChain + FastAPI Q&A Bot](./LangChain%20%2B%20FastAPI:%20Semantic%20Search%20%26%20Q%26A%20System) | Embedding-based text Q&A system with a REST API | LangChain · HFT · FastAPI · FAISS |
 | [ SQL + Power BI Business Insights](./sql_powerbi_project) | Analytical dashboard revealing key trends and KPIs using mock data | SQL · Power BI · Excel |
 
 ---
